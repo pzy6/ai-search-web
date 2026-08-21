@@ -1,9 +1,212 @@
 {
   "metadata": {
-    "generated_at": "2026-08-21T17:26:49+08:00",
-    "source": "manual",
-    "total_nodes": 0,
+    "generated_at": "2026-08-21T11:30:11.928860",
+    "total": 20,
+    "sources": [
+      "bilibili"
+    ],
     "version": "1.0"
   },
-  "nodes": []
+  "nodes": [
+    {
+      "id": "hot_e7805315",
+      "name": "我这一生最大的罪，是把人写成了妖……",
+      "cat": "tech",
+      "hot": 9960973,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_86d5048c",
+      "name": "《黑神话：钟馗》15分钟实机演示",
+      "cat": "tech",
+      "hot": 9026621,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_40832bc4",
+      "name": "《商务柔道》",
+      "cat": "tech",
+      "hot": 7830018,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1cqb86hE8B",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_0a0e6e66",
+      "name": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
+      "cat": "tech",
+      "hot": 6063251,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_63d1e63c",
+      "name": "魅力四射",
+      "cat": "tech",
+      "hot": 4832467,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1aEba6HEez",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_1b3002c7",
+      "name": "假如你是一个诗人",
+      "cat": "humanities",
+      "hot": 4660567,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1rTbf6CECX",
+      "category_name": "人文",
+      "is_hot": true
+    },
+    {
+      "id": "hot_13f77704",
+      "name": "我们不欢迎这样的客人，也不赚这种米",
+      "cat": "tech",
+      "hot": 4551185,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Neba63EDK",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_1ca44b97",
+      "name": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
+      "cat": "tech",
+      "hot": 3908422,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1BS876oEwP",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_28e848e0",
+      "name": "七夕节老番茄就和自己玩游戏",
+      "cat": "tech",
+      "hot": 3790236,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1q28V6VEYU",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_f9b4a9bf",
+      "name": "知道为啥这乐队没主唱了吧",
+      "cat": "arts",
+      "hot": 3749075,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1vF8n6ZEUz",
+      "category_name": "艺术",
+      "is_hot": true
+    },
+    {
+      "id": "hot_a5e64777",
+      "name": "当朋友总用奇怪的皮肤和你一起玩...",
+      "cat": "tech",
+      "hot": 3633607,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Hn8j6ZEqN",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_c7d0cc79",
+      "name": "我的蚊子生病了，带它去看病",
+      "cat": "tech",
+      "hot": 3402474,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_364423c5",
+      "name": "一种很“嘉豪”的合成方式",
+      "cat": "tech",
+      "hot": 3367343,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV18obz6BEiR",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_24cebe2b",
+      "name": "我看看谁错字了！",
+      "cat": "tech",
+      "hot": 2856375,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV14Z8u6JEu4",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_5e898439",
+      "name": "萨特：为什么你越想做自己，越容易被定义？",
+      "cat": "tech",
+      "hot": 2855542,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1pN8g6yE7m",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_84144fe1",
+      "name": "《如常运转｜正常運転》MV：全世界都会震惊于日本的灾后重建速度",
+      "cat": "tech",
+      "hot": 2527401,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1h88g6tEQv",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_0d2e5869",
+      "name": "停更7年，我又以经典的方式玩MC",
+      "cat": "tech",
+      "hot": 1937971,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_16d9b3fb",
+      "name": "怪谈逃生指南第一期：《恶魔法典》",
+      "cat": "tech",
+      "hot": 1679088,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1iv8j6EE77",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_b31d2b64",
+      "name": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
+      "cat": "tech",
+      "hot": 1548840,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_8a94705b",
+      "name": "《下一个是谁》第七季（3）",
+      "cat": "tech",
+      "hot": 834404,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
+      "category_name": "科技",
+      "is_hot": true
+    }
+  ]
 }
