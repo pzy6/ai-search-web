@@ -1,0 +1,61 @@
+name: 更新热点数据
+
+on:
+  # 定时触发：每天北京时间 08:00、12:00、18:00、22:00 自动抓取
+  schedule:
+    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
+    - cron: '0 4 * * *'  # UTC 04:00 = 北京时间 12:00
+    - cron: '0 10 * * *' # UTC 10:00 = 北京时间 18:00
+    - cron: '0 14 * * *' # UTC 14:00 = 北京时间 22:00
+  # 手动触发：在 Actions 页面点击 "Run workflow"
+  workflow_dispatch:
+
+jobs:
+  update-hotspots:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 1. 检出仓库代码
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      # 2. 设置 Python 环境
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      # 3. 安装依赖
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+      
+      # 4. 运行抓取脚本
+      - name: 抓取热点数据
+        run: python fetch_hotspots.py
+        timeout-minutes: 5
+      
+      # 5. 检查是否有更新
+      - name: 检查变更
+        id: check_changes
+        run: |
+          if git diff --quiet hotspots.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "没有数据更新，跳过提交"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "检测到数据更新"
+          fi
+      
+      # 6. 提交并推送更新（仅在数据有变化时）
+      - name: 提交更新
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add hotspots.json
+          git commit -m "🔄 自动更新热点数据 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
