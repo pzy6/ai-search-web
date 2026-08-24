@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-24T04:53:39.585016",
+    "generated_at": "2026-08-24T10:37:01.054741",
     "total": 20,
     "sources": [
       "bilibili"
@@ -9,32 +9,12 @@
   },
   "nodes": [
     {
-      "id": "hot_86d5048c",
-      "name": "《黑神话：钟馗》15分钟实机演示",
-      "cat": "tech",
-      "hot": 11176992,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
       "id": "hot_43bb149d",
       "name": "\"复活吧！我的（ ）\"",
       "cat": "tech",
-      "hot": 5816226,
+      "hot": 6126040,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_914b44d5",
-      "name": "《你咋开的车》",
-      "cat": "tech",
-      "hot": 5232412,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1dS8P6JEha",
       "category_name": "科技",
       "is_hot": true
     },
@@ -42,17 +22,47 @@
       "id": "hot_1332fbe2",
       "name": "我收容了100位粉丝到我的一辈子存档里！",
       "cat": "tech",
-      "hot": 5214700,
+      "hot": 5474635,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
       "category_name": "科技",
       "is_hot": true
     },
     {
+      "id": "hot_914b44d5",
+      "name": "《你咋开的车》",
+      "cat": "tech",
+      "hot": 5391012,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1dS8P6JEha",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_cc8bbae8",
+      "name": "《牛莱》",
+      "cat": "tech",
+      "hot": 3765532,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1vj8K6DE8D",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_e16387ae",
+      "name": "严肃观看儿子的历史记录",
+      "cat": "humanities",
+      "hot": 3746116,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+      "category_name": "人文",
+      "is_hot": true
+    },
+    {
       "id": "hot_a4bfc5a4",
       "name": "我正在烧烤…哦不是..思考..",
       "cat": "tech",
-      "hot": 3515460,
+      "hot": 3699045,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1RT816FEYe",
       "category_name": "科技",
@@ -62,39 +72,9 @@
       "id": "hot_c2338724",
       "name": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
       "cat": "tech",
-      "hot": 3505892,
+      "hot": 3633174,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_cd68e425",
-      "name": "🐧穷鬼鹅企🐧【B萌应援】",
-      "cat": "tech",
-      "hot": 3388490,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV13R8F6hEjX",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_e16387ae",
-      "name": "严肃观看儿子的历史记录",
-      "cat": "humanities",
-      "hot": 3384406,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "category_name": "人文",
-      "is_hot": true
-    },
-    {
-      "id": "hot_da2ba5cb",
-      "name": "《晒足一百ber天3.0》",
-      "cat": "tech",
-      "hot": 3337597,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1JDbo6iEaR",
       "category_name": "科技",
       "is_hot": true
     },
@@ -102,9 +82,39 @@
       "id": "hot_dd63f927",
       "name": "【纪录片TV】大乾乾被撞成两半了……",
       "cat": "tech",
-      "hot": 3233783,
+      "hot": 3559698,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1db8x6VE73",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_da2ba5cb",
+      "name": "《晒足一百ber天3.0》",
+      "cat": "tech",
+      "hot": 3539423,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1JDbo6iEaR",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_cd68e425",
+      "name": "🐧穷鬼鹅企🐧【B萌应援】",
+      "cat": "tech",
+      "hot": 3523344,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV13R8F6hEjX",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_fd7ced71",
+      "name": "护理：一把斩向死亡的温柔刀",
+      "cat": "tech",
+      "hot": 3258965,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
       "category_name": "科技",
       "is_hot": true
     },
@@ -112,7 +122,7 @@
       "id": "hot_8a94705b",
       "name": "《下一个是谁》第七季（3）",
       "cat": "tech",
-      "hot": 3086614,
+      "hot": 3187485,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
       "category_name": "科技",
@@ -122,47 +132,27 @@
       "id": "hot_866ce853",
       "name": "吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！",
       "cat": "arts",
-      "hot": 3016615,
+      "hot": 3134467,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1jM8P6EEDy",
       "category_name": "艺术",
       "is_hot": true
     },
     {
-      "id": "hot_fd7ced71",
-      "name": "护理：一把斩向死亡的温柔刀",
-      "cat": "tech",
-      "hot": 2767908,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
       "id": "hot_da31aa01",
       "name": "渣渣辉没更新在干嘛：结婚！生小孩！",
       "cat": "lifestyle",
-      "hot": 2632068,
+      "hot": 2804925,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1xz8M6CEdi",
       "category_name": "生活",
       "is_hot": true
     },
     {
-      "id": "hot_b31d2b64",
-      "name": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
-      "cat": "tech",
-      "hot": 2420112,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
       "id": "hot_01a5e57a",
       "name": "您好 没有为您拼命的义务 #乐意效劳",
       "cat": "tech",
-      "hot": 2381011,
+      "hot": 2518205,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Kz8M6CEVz",
       "category_name": "科技",
@@ -172,29 +162,19 @@
       "id": "hot_8284a609",
       "name": "⚡老牧师口音教学⚡",
       "cat": "tech",
-      "hot": 1945337,
+      "hot": 2288936,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1fA8m66EyX",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_6b7f3d0a",
-      "name": "我必须救好他",
+      "id": "hot_048765f7",
+      "name": "搞笑疯人院：满级病友竟是大佬！大家都有病的时候，楚闻野张口闭口就喊桑九舅舅，桑九也觉得楚闻野是个好孩子，就是脑子不太好。",
       "cat": "tech",
-      "hot": 1224573,
+      "hot": 1899407,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1dQ8i6MEA5",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_77a23697",
-      "name": "《被他人开户了怎么办》",
-      "cat": "tech",
-      "hot": 1115469,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1iY8j6SELm",
+      "url": "https://www.bilibili.com/video/BV1j38B65Eyw",
       "category_name": "科技",
       "is_hot": true
     },
@@ -202,9 +182,29 @@
       "id": "hot_ada2a603",
       "name": "原创民俗AI短片《槐灯》",
       "cat": "tech",
-      "hot": 1021107,
+      "hot": 1405608,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV15B8z61EbV",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_044dc175",
+      "name": "起猛了，在7月新番看到短剧了...... 【泛式】",
+      "cat": "lifestyle",
+      "hot": 1354074,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1LP816AETT",
+      "category_name": "生活",
+      "is_hot": true
+    },
+    {
+      "id": "hot_6b7f3d0a",
+      "name": "我必须救好他",
+      "cat": "tech",
+      "hot": 1268205,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1dQ8i6MEA5",
       "category_name": "科技",
       "is_hot": true
     }
