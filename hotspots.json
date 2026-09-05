@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-04T17:19:29.524038",
+    "generated_at": "2026-09-05T04:11:20.457652",
     "total": 20,
     "sources": [
       "bilibili"
@@ -9,32 +9,12 @@
   },
   "nodes": [
     {
-      "id": "hot_b403c235",
-      "name": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
-      "cat": "tech",
-      "hot": 5016523,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1a3th65EQb",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
       "id": "hot_e0d40d5e",
       "name": "【IGN独家】《鸣潮》共鸣者「心」、「锁暝」演示",
       "cat": "tech",
-      "hot": 4026943,
+      "hot": 4132231,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Q5tG6bEX3",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_bd4489d7",
-      "name": "08年美国讽刺金曲《朋友的酒》（英语填词cover）“空城计の小曲”",
-      "cat": "tech",
-      "hot": 3519729,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Este6wExx",
       "category_name": "科技",
       "is_hot": true
     },
@@ -42,9 +22,29 @@
       "id": "hot_d0313913",
       "name": "“用最温柔的方式，体面的告别了这个世界”｜听歌/小曲",
       "cat": "tech",
-      "hot": 3418262,
+      "hot": 3840169,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1P4th6PE81",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_bd4489d7",
+      "name": "08年美国讽刺金曲《朋友的酒》（英语填词cover）“空城计の小曲”",
+      "cat": "tech",
+      "hot": 3728354,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Este6wExx",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_e71e3e38",
+      "name": "天 雷 滚 滚 纽 约 城【神奇组织53】",
+      "cat": "tech",
+      "hot": 2937298,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1bHtd6CESR",
       "category_name": "科技",
       "is_hot": true
     },
@@ -52,7 +52,7 @@
       "id": "hot_6a3bb465",
       "name": "网络热传生物鉴定 第63期",
       "cat": "science",
-      "hot": 2598493,
+      "hot": 2781256,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1FQtt6JEKs",
       "category_name": "科学",
@@ -62,37 +62,17 @@
       "id": "hot_f9847f96",
       "name": "致热爱捉宠的你——《伊莫》幕后制作纪录片",
       "cat": "lifestyle",
-      "hot": 2488139,
+      "hot": 2489728,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV12ctX68Ex6",
       "category_name": "生活",
       "is_hot": true
     },
     {
-      "id": "hot_4f465e0e",
-      "name": "“什么叫程心的威慑度是100%？”",
-      "cat": "tech",
-      "hot": 2470450,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1p5t366EuM",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_e71e3e38",
-      "name": "天 雷 滚 滚 纽 约 城【神奇组织53】",
-      "cat": "tech",
-      "hot": 2261060,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1bHtd6CESR",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
       "id": "hot_fe9d691c",
       "name": "《三角洲行动》全新【群星】赛季故事短片",
       "cat": "lifestyle",
-      "hot": 2196289,
+      "hot": 2280620,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV15VtZ6oEk7",
       "category_name": "生活",
@@ -102,9 +82,19 @@
       "id": "hot_56a0c50d",
       "name": "一个外挂100块，从零挑战四款FPS，会遇到多少挂？",
       "cat": "tech",
-      "hot": 2161635,
+      "hot": 2235310,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1p3t36kEEj",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_c66a4a60",
+      "name": "这只猫，性格好到让我无语",
+      "cat": "tech",
+      "hot": 2176489,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV12Sto6VEnH",
       "category_name": "科技",
       "is_hot": true
     },
@@ -112,19 +102,19 @@
       "id": "hot_871f0527",
       "name": "《明日方舟》干员「结城理」技能展示PV",
       "cat": "tech",
-      "hot": 2129731,
+      "hot": 2139936,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1RhtV6iEt3",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_11b3f4a6",
-      "name": "把公司当成主题乐园",
+      "id": "hot_d97ac26f",
+      "name": "万人追更的终南山怪虫，只有我们拍到了真相！",
       "cat": "tech",
-      "hot": 2076041,
+      "hot": 2093336,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1n1tA67EsT",
+      "url": "https://www.bilibili.com/video/BV1yuto66E8J",
       "category_name": "科技",
       "is_hot": true
     },
@@ -132,7 +122,7 @@
       "id": "hot_f44a487b",
       "name": "直到赛前..我都没想到当教练还得出COS啊???🥹 【bilibilionly同人扶持计划】",
       "cat": "tech",
-      "hot": 2032173,
+      "hot": 2059627,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV13QtJ67Eo1",
       "category_name": "科技",
@@ -142,59 +132,49 @@
       "id": "hot_c114bdf6",
       "name": "极限挑战——时光大桥",
       "cat": "tech",
-      "hot": 1981880,
+      "hot": 2049560,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1BjtE6HExq",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_c66a4a60",
-      "name": "这只猫，性格好到让我无语",
-      "cat": "tech",
-      "hot": 1405143,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV12Sto6VEnH",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_211bbbdb",
-      "name": "“小传人”来了（假期拍摄，快乐起来）",
-      "cat": "lifestyle",
-      "hot": 1260554,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1potV6SEWY",
-      "category_name": "生活",
-      "is_hot": true
-    },
-    {
       "id": "hot_44d135ae",
       "name": "《绝区零》克拉蕾角色展示 | 不想培训，但攻略已写好",
       "cat": "lifestyle",
-      "hot": 1245531,
+      "hot": 1641181,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1wote6gEQ1",
       "category_name": "生活",
       "is_hot": true
     },
     {
-      "id": "hot_d1630780",
-      "name": "纯手搓的视频，初音会喜欢吗？【bilibilionly同人扶持计划】",
-      "cat": "tech",
-      "hot": 1102819,
+      "id": "hot_211bbbdb",
+      "name": "“小传人”来了（假期拍摄，快乐起来）",
+      "cat": "lifestyle",
+      "hot": 1310141,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1XPtM6SEHv",
-      "category_name": "科技",
+      "url": "https://www.bilibili.com/video/BV1potV6SEWY",
+      "category_name": "生活",
       "is_hot": true
     },
     {
       "id": "hot_24b9e3e9",
       "name": "【warma/怒九】两个大聪明的宇宙冒险！《轨道双子星》实况【更新P3】",
       "cat": "tech",
-      "hot": 986005,
+      "hot": 1222046,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV16mtU6kEu9",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_45e29023",
+      "name": "这次是真玩爽了",
+      "cat": "tech",
+      "hot": 1150878,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1e8tR6EER5",
       "category_name": "科技",
       "is_hot": true
     },
@@ -202,9 +182,29 @@
       "id": "hot_b703d6f9",
       "name": "星期日：纯路人，我觉得封面很可爱",
       "cat": "tech",
-      "hot": 757770,
+      "hot": 817436,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1STtS6fE7B",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_17e2080a",
+      "name": "这一期视频我不允许任何人漏看！！你们自己要的男生超详细全流程护肤教程！！！！",
+      "cat": "tech",
+      "hot": 765238,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV19Dtd6XEY3",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_0e2b5c64",
+      "name": "DECO*27 - 洗脳 feat. 初音未来",
+      "cat": "tech",
+      "hot": 317974,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1UW8i6tEo1",
       "category_name": "科技",
       "is_hot": true
     }
