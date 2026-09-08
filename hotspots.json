@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-07T09:13:41.649960",
+    "generated_at": "2026-09-08T08:47:30.816414",
     "total": 20,
     "sources": [
       "bilibili"
@@ -9,72 +9,32 @@
   },
   "nodes": [
     {
-      "id": "hot_e71e3e38",
-      "name": "天 雷 滚 滚 纽 约 城【神奇组织53】",
-      "cat": "tech",
-      "hot": 4507152,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1bHtd6CESR",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_16579b6f",
-      "name": "花600天做一道菜，切开的瞬间发光了！",
-      "cat": "tech",
-      "hot": 3229609,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1kGto6BEiG",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_c66a4a60",
-      "name": "这只猫，性格好到让我无语",
-      "cat": "tech",
-      "hot": 3194284,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV12Sto6VEnH",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_0f62430d",
-      "name": "“请与我一同，战胜时间的伟力。”",
-      "cat": "tech",
-      "hot": 2863783,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1NQti6HEaC",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_20963405",
-      "name": "全B站最垃圾的一期视频",
-      "cat": "tech",
-      "hot": 2780470,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1sxtk6YEGp",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
       "id": "hot_beae7fed",
       "name": "当你吃出口腔溃疡时体内正在发生什么",
       "cat": "business",
-      "hot": 2552402,
+      "hot": 3412826,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV145t66AEfZ",
       "category_name": "财经",
       "is_hot": true
     },
     {
-      "id": "hot_45e29023",
-      "name": "这次是真玩爽了",
+      "id": "hot_20963405",
+      "name": "全B站最垃圾的一期视频",
       "cat": "tech",
-      "hot": 2393328,
+      "hot": 3233084,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1e8tR6EER5",
+      "url": "https://www.bilibili.com/video/BV1sxtk6YEGp",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_88445274",
+      "name": "华强买瓜，但死神来了",
+      "cat": "tech",
+      "hot": 2571840,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1UBbL6YEtN",
       "category_name": "科技",
       "is_hot": true
     },
@@ -82,7 +42,7 @@
       "id": "hot_84a346d4",
       "name": "《崩坏：星穹铁道》千星纪游PV——「深水区」",
       "cat": "tech",
-      "hot": 2361343,
+      "hot": 2493169,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1sAbL6tEEC",
       "category_name": "科技",
@@ -92,7 +52,7 @@
       "id": "hot_49d89509",
       "name": "午夜轮班，伪人超市",
       "cat": "tech",
-      "hot": 2103889,
+      "hot": 2470067,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV16Htm6rE8n",
       "category_name": "科技",
@@ -102,19 +62,9 @@
       "id": "hot_e4578932",
       "name": "我把汉堡搬到了星星上",
       "cat": "tech",
-      "hot": 1925660,
+      "hot": 2342101,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Xdt26bECx",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_2b6cc1ff",
-      "name": "手机发明之前，人们就是这样手书的……完整版！【bilibilionly同人扶持计划】",
-      "cat": "tech",
-      "hot": 1913352,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1aktB6KEA5",
       "category_name": "科技",
       "is_hot": true
     },
@@ -122,29 +72,49 @@
       "id": "hot_97704000",
       "name": "《下一个是谁》第七季（4）",
       "cat": "tech",
-      "hot": 1770012,
+      "hot": 2270860,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1HBbE6cEc5",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_82ebdb2e",
-      "name": "拉康：我们如何用一生，从别人那里偷来一个“我”？",
-      "cat": "tech",
-      "hot": 1585907,
+      "id": "hot_24ed825b",
+      "name": "【萌黄一槽】幻术吗，什么时候？！宇智波鼬[晓·朱]全技能爆料！",
+      "cat": "lifestyle",
+      "hot": 2084508,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1BZtC68EXq",
+      "url": "https://www.bilibili.com/video/BV1j3t268EPc",
+      "category_name": "生活",
+      "is_hot": true
+    },
+    {
+      "id": "hot_2b6cc1ff",
+      "name": "手机发明之前，人们就是这样手书的……完整版！【bilibilionly同人扶持计划】",
+      "cat": "tech",
+      "hot": 2061786,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1aktB6KEA5",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_6db88b9b",
-      "name": "慢下来，就会死！",
+      "id": "hot_271f851f",
+      "name": "我去了世界最大的男女混浴温泉瀑布，泡起来到底多刺激？",
       "cat": "tech",
-      "hot": 1402084,
+      "hot": 2052623,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1T2ti6REsF",
+      "url": "https://www.bilibili.com/video/BV1afbn6sExH",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_3762f6c6",
+      "name": "怎么有网友让我走到西藏啊…",
+      "cat": "tech",
+      "hot": 1833600,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1eBbH6ZEL9",
       "category_name": "科技",
       "is_hot": true
     },
@@ -152,39 +122,79 @@
       "id": "hot_8e0fcab9",
       "name": "《绝区零》克拉蕾EP | Link Up 血火相连",
       "cat": "lifestyle",
-      "hot": 1367505,
+      "hot": 1815027,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1C9b76cEks",
       "category_name": "生活",
       "is_hot": true
     },
     {
+      "id": "hot_6db88b9b",
+      "name": "慢下来，就会死！",
+      "cat": "tech",
+      "hot": 1556976,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1T2ti6REsF",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_3cf9b598",
+      "name": "他只用一首歌，就能让十四亿中国人乖乖回家",
+      "cat": "tech",
+      "hot": 1503453,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1J1t26KEcz",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_594d9210",
+      "name": "乌克兰的军统和中统内斗",
+      "cat": "tech",
+      "hot": 1373525,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Akbw6WECj",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
       "id": "hot_a45eb954",
       "name": "全网首发！爆肝3天！S11新NPC佐拉、唐吉任务线全流程攻略！完成后送口琴和火箭！可演奏可互动可入局！单人几乎无法完成！",
       "cat": "tech",
-      "hot": 975296,
+      "hot": 1321197,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1X5bE62EbZ",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_0e2b5c64",
-      "name": "DECO*27 - 洗脳 feat. 初音未来",
-      "cat": "tech",
-      "hot": 958898,
+      "id": "hot_55576bdf",
+      "name": "开学攻略-选定你的硬核学习刚需",
+      "cat": "lifestyle",
+      "hot": 830946,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1UW8i6tEo1",
+      "url": "https://www.bilibili.com/video/BV1ALtm61Eib",
+      "category_name": "生活",
+      "is_hot": true
+    },
+    {
+      "id": "hot_9684400d",
+      "name": "【终末地1.5】全网最强基建！划时代创新科技！颠覆你对基建深度的认知！",
+      "cat": "tech",
+      "hot": 709560,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1tgbW6RE6W",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_3f979949",
-      "name": "我好像找到了特别贴numb numb副歌音效的跳法…",
+      "id": "hot_e980656e",
+      "name": "【4k超清】《乾乾特工·西部篇》牛仔回归……",
       "cat": "tech",
-      "hot": 628983,
+      "hot": 705210,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1s9tf6EE3N",
+      "url": "https://www.bilibili.com/video/BV13Rty6pEeB",
       "category_name": "科技",
       "is_hot": true
     },
@@ -192,20 +202,10 @@
       "id": "hot_a7e66d28",
       "name": "【B萌纪念mv】恭喜千早爱音加冕B萌萌王！【bilibilionly同人扶持计划】",
       "cat": "tech",
-      "hot": 450918,
+      "hot": 546559,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1jxt16cEdb",
       "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_5cec1eaa",
-      "name": "【苏新皓｜4K直拍】99次我爱他 直拍｜重·二周年演唱会 DAY3",
-      "cat": "arts",
-      "hot": 237971,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Jpti63EA5",
-      "category_name": "艺术",
       "is_hot": true
     }
   ]
