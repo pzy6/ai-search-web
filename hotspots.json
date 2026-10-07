@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-06T19:16:09.456458",
+    "generated_at": "2026-10-07T10:58:45.237069",
     "total": 20,
     "sources": [
       "bilibili"
@@ -9,20 +9,10 @@
   },
   "nodes": [
     {
-      "id": "hot_a7326e73",
-      "name": "有用版新植物：空调寒冰",
-      "cat": "lifestyle",
-      "hot": 8889817,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1W7HY6xErH",
-      "category_name": "生活",
-      "is_hot": true
-    },
-    {
       "id": "hot_4390cacc",
       "name": "《诡异的她》第一季全集·纯享",
       "cat": "tech",
-      "hot": 5664110,
+      "hot": 6343412,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1c3HL6qEyq",
       "category_name": "科技",
@@ -32,19 +22,9 @@
       "id": "hot_c151a528",
       "name": "看这个视频我不烧心！",
       "cat": "tech",
-      "hot": 5171608,
+      "hot": 6088079,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1WSHL66EdZ",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_ce720b18",
-      "name": "梦之bug",
-      "cat": "tech",
-      "hot": 3562325,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1UeHe6YEVM",
       "category_name": "科技",
       "is_hot": true
     },
@@ -52,39 +32,29 @@
       "id": "hot_64a71e5a",
       "name": "自学动画 爆肝俩月 自创一集《海绵宝宝》【手搓动画大赛】",
       "cat": "lifestyle",
-      "hot": 3409371,
+      "hot": 3691229,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1TXHY6aETi",
       "category_name": "生活",
       "is_hot": true
     },
     {
-      "id": "hot_7c64e5c5",
-      "name": "《我上哪给你整假的》",
-      "cat": "tech",
-      "hot": 2653198,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1LNHj68EMg",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_15f6d1a0",
-      "name": "结尾喊妈妈",
-      "cat": "tech",
-      "hot": 2557008,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1kYHj63EuQ",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
       "id": "hot_17648c05",
       "name": "惊惊惊惊惊惊惊惊了",
       "cat": "tech",
-      "hot": 2424229,
+      "hot": 2940811,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1BJao6BE71",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_7c64e5c5",
+      "name": "《我上哪给你整假的》",
+      "cat": "tech",
+      "hot": 2901219,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1LNHj68EMg",
       "category_name": "科技",
       "is_hot": true
     },
@@ -92,29 +62,29 @@
       "id": "hot_80ac6e24",
       "name": "【春物语】我的婚后生活果然有问题 第1话：于是，结婚半年的两人还没叫过对方的名字。",
       "cat": "tech",
-      "hot": 2367360,
+      "hot": 2883628,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV14sHj62EzS",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_5751beb4",
-      "name": "看完不笑的可以确诊为抑郁了",
-      "cat": "health",
-      "hot": 2039037,
+      "id": "hot_15f6d1a0",
+      "name": "结尾喊妈妈",
+      "cat": "tech",
+      "hot": 2716216,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1YNHv6GE2y",
-      "category_name": "健康",
+      "url": "https://www.bilibili.com/video/BV1kYHj63EuQ",
+      "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_3ea6d670",
-      "name": "你牛爷爷只是老了不是提不动刀了，胆敢绑架胡图图？一通电话十亿大军兵临城下！",
+      "id": "hot_a3cfa4ba",
+      "name": "印度军事这次支棱起来了",
       "cat": "tech",
-      "hot": 1979441,
+      "hot": 2217984,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV16VHL6NEQe",
+      "url": "https://www.bilibili.com/video/BV11bHE6QEx2",
       "category_name": "科技",
       "is_hot": true
     },
@@ -122,19 +92,59 @@
       "id": "hot_c04e72db",
       "name": "被 解 救 的 杰 戈",
       "cat": "tech",
-      "hot": 1799462,
+      "hot": 2212304,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1YtHs62EHZ",
       "category_name": "科技",
       "is_hot": true
     },
     {
+      "id": "hot_5751beb4",
+      "name": "看完不笑的可以确诊为抑郁了",
+      "cat": "health",
+      "hot": 2097494,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1YNHv6GE2y",
+      "category_name": "健康",
+      "is_hot": true
+    },
+    {
       "id": "hot_2ec85b3d",
       "name": "【哥布林故事总集篇】愿你也能像哥布林一样，开启逆袭翻盘的旅途",
       "cat": "tech",
-      "hot": 1633146,
+      "hot": 1995355,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1fnHL68EPT",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_4d73120a",
+      "name": "【完整版】纪录片《缅北电诈覆灭纪实》第一集《利剑出鞘》",
+      "cat": "tech",
+      "hot": 1687533,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1hQHW63EMc",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_a49dcf0b",
+      "name": "朋友说我树屋像后室，各位评评理",
+      "cat": "tech",
+      "hot": 1558882,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1gqH46EEyw",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_0202bfe6",
+      "name": "《明日方舟：终末地》汤汤EP - 一诺为家",
+      "cat": "tech",
+      "hot": 1548177,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1BCpw6cEuo",
       "category_name": "科技",
       "is_hot": true
     },
@@ -142,19 +152,9 @@
       "id": "hot_2be2f5c3",
       "name": "hanser「花生与葱花」全程录像",
       "cat": "tech",
-      "hot": 1408990,
+      "hot": 1530282,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1r4a96KEfn",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_7a029841",
-      "name": "Re:佩恩从零开始的异世界生活！！！【水门篇 下 】",
-      "cat": "tech",
-      "hot": 1330635,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV126Hi6TEAg",
       "category_name": "科技",
       "is_hot": true
     },
@@ -162,17 +162,27 @@
       "id": "hot_e89b9efc",
       "name": "Mili - Rendezvous（密会）【边狱巴士】",
       "cat": "tech",
-      "hot": 1240885,
+      "hot": 1415390,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1yRH66VEHm",
       "category_name": "科技",
       "is_hot": true
     },
     {
+      "id": "hot_dad1fc6d",
+      "name": "啊啊7月新番你到底给我下了什么药啊！！【泛式】",
+      "cat": "lifestyle",
+      "hot": 1368355,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Uppw6yEMr",
+      "category_name": "生活",
+      "is_hot": true
+    },
+    {
       "id": "hot_24bcf47a",
       "name": "奥黛塔，快跟沃来比赛吧！",
       "cat": "tech",
-      "hot": 963862,
+      "hot": 1025896,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1U4Hr6HEqw",
       "category_name": "科技",
@@ -182,7 +192,7 @@
       "id": "hot_4cb9f3f5",
       "name": "用鳃呼吸吧沃雅妮莎！",
       "cat": "tech",
-      "hot": 927866,
+      "hot": 1012192,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1c6Hr6CEmk",
       "category_name": "科技",
@@ -192,20 +202,10 @@
       "id": "hot_9c604d90",
       "name": "近期画的",
       "cat": "tech",
-      "hot": 750488,
+      "hot": 777558,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Y2Hv65E9Y",
       "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_dad1fc6d",
-      "name": "啊啊7月新番你到底给我下了什么药啊！！【泛式】",
-      "cat": "lifestyle",
-      "hot": 609958,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Uppw6yEMr",
-      "category_name": "生活",
       "is_hot": true
     }
   ]
