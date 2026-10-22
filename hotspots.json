@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-21T18:19:56.325575",
+    "generated_at": "2026-10-22T09:19:15.224186",
     "total": 20,
     "sources": [
       "bilibili"
@@ -9,20 +9,10 @@
   },
   "nodes": [
     {
-      "id": "hot_000e4212",
-      "name": "长乐夜未央丨全新主题区域「未央城」即将上线",
-      "cat": "lifestyle",
-      "hot": 5629689,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV186Jq6uEFu",
-      "category_name": "生活",
-      "is_hot": true
-    },
-    {
       "id": "hot_cef89b0b",
       "name": "带着100万，我们见了成人网红...",
       "cat": "lifestyle",
-      "hot": 4786431,
+      "hot": 4999480,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1pGnn67EbB",
       "category_name": "生活",
@@ -32,19 +22,9 @@
       "id": "hot_0289679b",
       "name": "教妹妹开车，用我的声音，我成功了！",
       "cat": "tech",
-      "hot": 3742238,
+      "hot": 3971656,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1YmnJ6eEKE",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_411ee53f",
-      "name": "《是我嘴太小了吗》",
-      "cat": "tech",
-      "hot": 2942851,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1omnG6nEUJ",
       "category_name": "科技",
       "is_hot": true
     },
@@ -52,7 +32,7 @@
       "id": "hot_ee99411b",
       "name": "不是 AI 特效！这才是《中国功夫》的魅力！",
       "cat": "tech",
-      "hot": 2810565,
+      "hot": 2887655,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1MHJB63Emv",
       "category_name": "科技",
@@ -62,19 +42,9 @@
       "id": "hot_9a9febe5",
       "name": "《绝区零》菲欧妮EP | 1% Battery Girl 低电量女孩",
       "cat": "tech",
-      "hot": 2562460,
+      "hot": 2749495,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1SknF6KE5g",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_e184bcf5",
-      "name": "每一位认真谋生的人都值得被仰望",
-      "cat": "tech",
-      "hot": 2554804,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Jonu6mEwN",
       "category_name": "科技",
       "is_hot": true
     },
@@ -82,9 +52,19 @@
       "id": "hot_0dd7ed9f",
       "name": "我得到了，能看到表白率的超能力……",
       "cat": "tech",
-      "hot": 2483438,
+      "hot": 2698189,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1ALnw6YE4S",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_e184bcf5",
+      "name": "每一位认真谋生的人都值得被仰望",
+      "cat": "tech",
+      "hot": 2611920,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Jonu6mEwN",
       "category_name": "科技",
       "is_hot": true
     },
@@ -92,39 +72,19 @@
       "id": "hot_c03a5eaf",
       "name": "【英雄联盟】K/DA官方MV - “FIRESTARTER（燃）”正式上线",
       "cat": "tech",
-      "hot": 2210318,
+      "hot": 2335825,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1j5nj68E48",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_0838400a",
-      "name": "赵本山携手象牙山巨头们激情演唱《Uptown Funk》",
+      "id": "hot_09d324b2",
+      "name": "《三过车门而不入》",
       "cat": "tech",
-      "hot": 2191606,
+      "hot": 2245591,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1T8J66CEEu",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_2a70e8df",
-      "name": "重阳节，以此摇滚，缅怀逝去的姐妹。",
-      "cat": "tech",
-      "hot": 2140864,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV18rn36iEBq",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_8011fc31",
-      "name": "这款游戏出现在21世纪还是太超前了",
-      "cat": "tech",
-      "hot": 1947099,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1nFJ66PE1K",
+      "url": "https://www.bilibili.com/video/BV1n7nF6WEco",
       "category_name": "科技",
       "is_hot": true
     },
@@ -132,9 +92,19 @@
       "id": "hot_a4c468a1",
       "name": "法国影响力最大的八卦是什么？【神奇组织56】",
       "cat": "tech",
-      "hot": 1853404,
+      "hot": 1985284,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Vbnn6iEfG",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_d449cca9",
+      "name": "《南屏晚钟》来啦！",
+      "cat": "tech",
+      "hot": 1870678,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1mgnP6yELh",
       "category_name": "科技",
       "is_hot": true
     },
@@ -142,19 +112,9 @@
       "id": "hot_0e38c3fc",
       "name": "以色列和英国的文明内斗",
       "cat": "tech",
-      "hot": 1735385,
+      "hot": 1865774,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Lsnn6uEaH",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_f9097c6c",
-      "name": "《现在的小孩 vs bro小时候》",
-      "cat": "tech",
-      "hot": 1657307,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1yJnL6TE3p",
       "category_name": "科技",
       "is_hot": true
     },
@@ -162,9 +122,39 @@
       "id": "hot_db93a48e",
       "name": "中文已死：为什么我们越来越不敢好好说话？",
       "cat": "tech",
-      "hot": 1593406,
+      "hot": 1793010,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Xdnc6jEbL",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_f9097c6c",
+      "name": "《现在的小孩 vs bro小时候》",
+      "cat": "tech",
+      "hot": 1731234,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1yJnL6TE3p",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_e6a9c8e4",
+      "name": "《影之刃零》最终预告",
+      "cat": "tech",
+      "hot": 1565970,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1AHnB6NEhM",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_06d47637",
+      "name": "大难不死的男孩爱上纯血家族的女孩【AI全民制作人】",
+      "cat": "tech",
+      "hot": 1388531,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1bKnw6zEsV",
       "category_name": "科技",
       "is_hot": true
     },
@@ -172,29 +162,29 @@
       "id": "hot_79b2e27f",
       "name": "iG出征单曲《仁川共鸣》",
       "cat": "arts",
-      "hot": 1212838,
+      "hot": 1333993,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1F7nF6WEmD",
       "category_name": "艺术",
       "is_hot": true
     },
     {
-      "id": "hot_06d47637",
-      "name": "大难不死的男孩爱上纯血家族的女孩【AI全民制作人】",
+      "id": "hot_3e9ba510",
+      "name": "【NMIXX】\"긴 소원(Birthday Wish)\" M/V",
       "cat": "tech",
-      "hot": 1171815,
+      "hot": 1109167,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1bKnw6zEsV",
+      "url": "https://www.bilibili.com/video/BV1Ben76vEwK",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_3e9ba510",
-      "name": "【NMIXX】\"긴 소원(Birthday Wish)\" M/V",
+      "id": "hot_c4cbc531",
+      "name": "PCL出事了？那MC下载和联机，我们先顶上了",
       "cat": "tech",
-      "hot": 1061107,
+      "hot": 1079046,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Ben76vEwK",
+      "url": "https://www.bilibili.com/video/BV1nCnA6AEYB",
       "category_name": "科技",
       "is_hot": true
     },
@@ -202,9 +192,19 @@
       "id": "hot_c8eca44a",
       "name": "“当人生变成曲线，你会看见谁一直陪着你”【把回忆拼好给你-DJ变速】【生命线の小曲】",
       "cat": "tech",
-      "hot": 1049088,
+      "hot": 1074115,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1xmn36aEgv",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_ecf06c7a",
+      "name": "伊蕾娜 初夏的苍穹 手办重涂",
+      "cat": "tech",
+      "hot": 971670,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1uDJR6xEam",
       "category_name": "科技",
       "is_hot": true
     }
