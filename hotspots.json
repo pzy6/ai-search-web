@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-24T04:20:33.216369",
+    "generated_at": "2026-10-25T09:04:02.846739",
     "total": 20,
     "sources": [
       "bilibili"
@@ -12,19 +12,9 @@
       "id": "hot_0cc77947",
       "name": "折1万次，会坏吗？iPhone Duo深度评测",
       "cat": "tech",
-      "hot": 7213792,
+      "hot": 9013019,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1xrnz6gEVD",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_a303c498",
-      "name": "《人间异想计划》22分钟实机首曝｜间章：如果之事与未践之约",
-      "cat": "tech",
-      "hot": 6391063,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Ranw6DEYW",
       "category_name": "科技",
       "is_hot": true
     },
@@ -32,159 +22,29 @@
       "id": "hot_e6a9c8e4",
       "name": "《影之刃零》最终预告",
       "cat": "tech",
-      "hot": 5687782,
+      "hot": 7573564,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1AHnB6NEhM",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_3c26f700",
-      "name": "联想词",
+      "id": "hot_90128802",
+      "name": "《纯阳真气》",
       "cat": "tech",
-      "hot": 4842052,
+      "hot": 4872100,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1uanE6dErS",
+      "url": "https://www.bilibili.com/video/BV111na6WExX",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_0dd7ed9f",
-      "name": "我得到了，能看到表白率的超能力……",
+      "id": "hot_ff03d640",
+      "name": "《绝区零》先导演示丨挽昼",
       "cat": "tech",
-      "hot": 3361766,
+      "hot": 4468274,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1ALnw6YE4S",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_9a9febe5",
-      "name": "《绝区零》菲欧妮EP | 1% Battery Girl 低电量女孩",
-      "cat": "tech",
-      "hot": 3323934,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1SknF6KE5g",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_b0b38e1a",
-      "name": "《最绝望の守门员》",
-      "cat": "tech",
-      "hot": 2990384,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1g5nk6xEWk",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_d449cca9",
-      "name": "《南屏晚钟》来啦！",
-      "cat": "tech",
-      "hot": 2961839,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1mgnP6yELh",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_f33df319",
-      "name": "FPS游戏必学两大焚诀，学会胜率直接飙升！",
-      "cat": "tech",
-      "hot": 2885009,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1i5nz6ZEZv",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_fa1539f7",
-      "name": "这个更新有亿点水——《伊莫》S1赛季「逐风启程・下」10月29日开启！",
-      "cat": "lifestyle",
-      "hot": 2707443,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV15ins67ERt",
-      "category_name": "生活",
-      "is_hot": true
-    },
-    {
-      "id": "hot_06d47637",
-      "name": "大难不死的男孩爱上纯血家族的女孩【AI全民制作人】",
-      "cat": "tech",
-      "hot": 2599422,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1bKnw6zEsV",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_54340147",
-      "name": "用寂静岭的画风打开《周处除三害》【AI MV大赛】",
-      "cat": "tech",
-      "hot": 2476673,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Cdni6AEQB",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_db93a48e",
-      "name": "中文已死：为什么我们越来越不敢好好说话？",
-      "cat": "tech",
-      "hot": 2292725,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Xdnc6jEbL",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_6ddebd66",
-      "name": "传统口技表演《大闹天宫》",
-      "cat": "humanities",
-      "hot": 2066005,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1xwnE6jEUZ",
-      "category_name": "人文",
-      "is_hot": true
-    },
-    {
-      "id": "hot_f74498c2",
-      "name": "电脑总是卡顿掉帧？原来是ACE 根本没有彻底卸载干净！",
-      "cat": "tech",
-      "hot": 1948011,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1DSnK6REdy",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_9fed7e35",
-      "name": "韩国要收回美国权力指挥美军",
-      "cat": "tech",
-      "hot": 1865449,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1kTnr63EBF",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_e4d3edf5",
-      "name": "现实可比电影荒谬多了！这些看似鬼扯的桥段，一查资料全是真事！",
-      "cat": "arts",
-      "hot": 1800598,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1GBni61ELm",
-      "category_name": "艺术",
-      "is_hot": true
-    },
-    {
-      "id": "hot_229aaccb",
-      "name": "《原神》7.2版本PV：「坏灭肇始之时」",
-      "cat": "tech",
-      "hot": 1662051,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1z9nt6aE5H",
+      "url": "https://www.bilibili.com/video/BV1U3n46GEzY",
       "category_name": "科技",
       "is_hot": true
     },
@@ -192,9 +52,129 @@
       "id": "hot_8358bd36",
       "name": "人工耳蜗里的声音，到底是什么样的？",
       "cat": "tech",
-      "hot": 1589372,
+      "hot": 4391172,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV14Enb6LEDe",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_8f24aac3",
+      "name": "人性、欲望与奇观，自驾拉斯维加斯，现实夜之城什么样？",
+      "cat": "lifestyle",
+      "hot": 3721808,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV12qnt6VEM1",
+      "category_name": "生活",
+      "is_hot": true
+    },
+    {
+      "id": "hot_9d5ec8f6",
+      "name": "写了全国所有省份的love me！",
+      "cat": "tech",
+      "hot": 3516935,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1w2Hw6KE1j",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_6ddebd66",
+      "name": "传统口技表演《大闹天宫》",
+      "cat": "humanities",
+      "hot": 3292584,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1xwnE6jEUZ",
+      "category_name": "人文",
+      "is_hot": true
+    },
+    {
+      "id": "hot_54340147",
+      "name": "用寂静岭的画风打开《周处除三害》【AI MV大赛】",
+      "cat": "tech",
+      "hot": 3187450,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Cdni6AEQB",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_e852cb53",
+      "name": "影视飓风员工，开什么车？",
+      "cat": "tech",
+      "hot": 3045299,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV16inH6SEvM",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_d222b7ce",
+      "name": "“借大圣威名，护我痴儿周全”",
+      "cat": "tech",
+      "hot": 3018299,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1KMnw6ME1Z",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_1406f357",
+      "name": "“大肥鱼适合做女朋友吗？”",
+      "cat": "tech",
+      "hot": 2708795,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV166nW6REyR",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_229aaccb",
+      "name": "《原神》7.2版本PV：「坏灭肇始之时」",
+      "cat": "tech",
+      "hot": 2362247,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1z9nt6aE5H",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_af37f672",
+      "name": "我花了3个月！把MC爆改成别的游戏！！",
+      "cat": "tech",
+      "hot": 1875689,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1UnHN6SECP",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_46056441",
+      "name": "《明日方舟》2026「感谢庆典」活动宣传PV",
+      "cat": "tech",
+      "hot": 1639790,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1fjHP6eECY",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_05d1c00d",
+      "name": "《鸣潮》世界观PV | 超验TRANSCENDO",
+      "cat": "lifestyle",
+      "hot": 1463387,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1p8nh61Efm",
+      "category_name": "生活",
+      "is_hot": true
+    },
+    {
+      "id": "hot_8fef7b8c",
+      "name": "四人行，必有一怂蛋",
+      "cat": "tech",
+      "hot": 1448356,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1M1np6YE8c",
       "category_name": "科技",
       "is_hot": true
     },
@@ -202,10 +182,30 @@
       "id": "hot_98d34900",
       "name": "😨\"后室里的乌鲁鲁3\"😰",
       "cat": "tech",
-      "hot": 571317,
+      "hot": 1159228,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Honn67ENm",
       "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_78f1d470",
+      "name": "《话术博弈》如何优雅的套出对方的真心话？",
+      "cat": "tech",
+      "hot": 1096298,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1yVn16XEz7",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_c493e649",
+      "name": "【司凤TV】司凤音乐270个视频14小时合集 看完这辈子都通透了",
+      "cat": "arts",
+      "hot": 881285,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Xbn864EUE",
+      "category_name": "艺术",
       "is_hot": true
     }
   ]
