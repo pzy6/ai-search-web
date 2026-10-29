@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-28T10:29:19.648064",
+    "generated_at": "2026-10-29T16:37:58.821660",
     "total": 20,
     "sources": [
       "bilibili"
@@ -9,112 +9,12 @@
   },
   "nodes": [
     {
-      "id": "hot_ff03d640",
-      "name": "《绝区零》先导演示丨挽昼",
+      "id": "hot_b4d60b6e",
+      "name": "【2026全球总决赛】10月29日 LYON vs IG",
       "cat": "tech",
-      "hot": 6360253,
+      "hot": 5803724,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1U3n46GEzY",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_9d5ec8f6",
-      "name": "写了全国所有省份的love me！",
-      "cat": "tech",
-      "hot": 5668406,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1w2Hw6KE1j",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_e53f1cf7",
-      "name": "双人抬棺",
-      "cat": "tech",
-      "hot": 5305272,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1c5HK6CEPu",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_df7f1d03",
-      "name": "【2026全球总决赛】10月26日 IG vs HLE",
-      "cat": "tech",
-      "hot": 5265944,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV19wnQ6sExk",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_3fca5df2",
-      "name": "万重山河皆侠骨！剑网3新50级版本MV《万重山》上线",
-      "cat": "lifestyle",
-      "hot": 4759784,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1BBnb6aEww",
-      "category_name": "生活",
-      "is_hot": true
-    },
-    {
-      "id": "hot_2fb5c86a",
-      "name": "马尔芙小姐，我能请你共舞一曲吗？｜PV",
-      "cat": "tech",
-      "hot": 4083375,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1kZHK6VEgZ",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_dabd6103",
-      "name": "日本人吃自助不好意思多要跟我外国人有什么关系？读鸡毛空气啊，我踏麻吃吃吃！",
-      "cat": "tech",
-      "hot": 3416614,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1EzH56bE5k",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_3f513498",
-      "name": "花4毛钱让1000个蓝色大肥鱼建造故宫",
-      "cat": "tech",
-      "hot": 3107222,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1nJHK6gEtd",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_d0f9f642",
-      "name": "张麻子《鹅城FUNK》",
-      "cat": "tech",
-      "hot": 2933819,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1RJHV6pECP",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_e99144b7",
-      "name": "生命起源：四十亿年前，地球如何诞生第一个生命？",
-      "cat": "tech",
-      "hot": 2452660,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1WYnd6DEAw",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_a86c6e56",
-      "name": "【IGN】10分，《影之刃零》评测： 武侠朋克传奇",
-      "cat": "tech",
-      "hot": 2450951,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV19bHK6AEBD",
+      "url": "https://www.bilibili.com/video/BV1Eas967EY9",
       "category_name": "科技",
       "is_hot": true
     },
@@ -122,29 +22,29 @@
       "id": "hot_3e1b25d9",
       "name": "《胡闹厨房》",
       "cat": "tech",
-      "hot": 2411093,
+      "hot": 3334640,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Xun96tEjo",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_5f1513cc",
-      "name": "动态视频｜子弹时间再升级，70台iPhone造了个捕捉时空的球",
+      "id": "hot_e55bc08c",
+      "name": "《崩坏：星穹铁道》千星纪游PV：「有关星空的寓言集•其三」",
       "cat": "tech",
-      "hot": 2350694,
+      "hot": 3114254,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1aFno6wETM",
+      "url": "https://www.bilibili.com/video/BV1JYsd6sE4k",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_1588e20b",
-      "name": "中国90%的人都听过的童年阴影BGM！20年后我终于扒出了它的真身……SCARSONG终极溯源！【互联网大冒险】",
+      "id": "hot_e99144b7",
+      "name": "生命起源：四十亿年前，地球如何诞生第一个生命？",
       "cat": "tech",
-      "hot": 2321004,
+      "hot": 2950188,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1xqH36AEPX",
+      "url": "https://www.bilibili.com/video/BV1WYnd6DEAw",
       "category_name": "科技",
       "is_hot": true
     },
@@ -152,19 +52,59 @@
       "id": "hot_2049bf37",
       "name": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
       "cat": "tech",
-      "hot": 1930898,
+      "hot": 2759505,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_bf3cf120",
-      "name": "愚蠢鬼",
-      "cat": "tech",
-      "hot": 1604768,
+      "id": "hot_4df12c7d",
+      "name": "可观测宇宙最可爱的古风大肥鱼",
+      "cat": "science",
+      "hot": 2735419,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1q5HV6dEzo",
+      "url": "https://www.bilibili.com/video/BV16VxM6dEeb",
+      "category_name": "科学",
+      "is_hot": true
+    },
+    {
+      "id": "hot_5f1513cc",
+      "name": "动态视频｜子弹时间再升级，70台iPhone造了个捕捉时空的球",
+      "cat": "tech",
+      "hot": 2718094,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1aFno6wETM",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_cf49e15f",
+      "name": "【捉迷躲猫王】😱太阴了躲在粪坑下面？？大哥你无敌了啊？！废弃监狱超高难度捉迷藏~！",
+      "cat": "tech",
+      "hot": 2504969,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1KwxM6NESD",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_01a96dca",
+      "name": "贴脸特写，是每个野生动物摄影师的必备技能！",
+      "cat": "arts",
+      "hot": 2411417,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV16nxg6fE3s",
+      "category_name": "艺术",
+      "is_hot": true
+    },
+    {
+      "id": "hot_80f8a1fd",
+      "name": "奶奶的皱纹里，藏着我一生的甜与暖",
+      "cat": "tech",
+      "hot": 2164214,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1chxT6xEyo",
       "category_name": "科技",
       "is_hot": true
     },
@@ -172,39 +112,99 @@
       "id": "hot_a7481991",
       "name": "反诈博主“徽剑”被曝2年前遭买凶遇害，曾公开举报电诈大佬刘忍，简介上写着：位卑未敢忘忧国，哪怕无人知我（编辑：卓光）",
       "cat": "tech",
-      "hot": 1446238,
+      "hot": 1838557,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1pmxK6REXd",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_07ac88c4",
-      "name": "肥鱼摇表情包一分钟完整版",
-      "cat": "tech",
-      "hot": 1442741,
+      "id": "hot_63b9d7a6",
+      "name": "⚡《新 三 国 FUNK》⚡",
+      "cat": "lifestyle",
+      "hot": 1800524,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1S3nQ6EEoW",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_2e8b725c",
-      "name": "《罗德岛学院》——早八！",
-      "cat": "tech",
-      "hot": 1376548,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1m9HG6gE4g",
-      "category_name": "科技",
+      "url": "https://www.bilibili.com/video/BV1iXxV6vEmP",
+      "category_name": "生活",
       "is_hot": true
     },
     {
       "id": "hot_8e183924",
       "name": "《阴阳师》UR大天狗·高天铁羽CG丨飞羽凌云（CV：前野智昭）",
       "cat": "tech",
-      "hot": 1065866,
+      "hot": 1642757,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1KFxK6ZEUk",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_66621b03",
+      "name": "鲸鲸，跑起来吧",
+      "cat": "tech",
+      "hot": 1562490,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Qwx56bEig",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_d5f18be8",
+      "name": "东西伯利亚棕熊泛滥成灾，朋友让我帮忙清理熊患。#国外合法狩猎",
+      "cat": "tech",
+      "hot": 1228372,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1jWnX6FE5K",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_b9891c81",
+      "name": "永远和你在一起",
+      "cat": "tech",
+      "hot": 1187738,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1hmx56oEPg",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_a00587cf",
+      "name": "挑战穿轮滑鞋全程爬武功山登顶后在滑下来",
+      "cat": "tech",
+      "hot": 1135526,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1rLxM6sEPk",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_7e63ba42",
+      "name": "一颗钻石里藏着多少光？",
+      "cat": "tech",
+      "hot": 1115965,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV18YxK6NEPy",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_efde3915",
+      "name": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
+      "cat": "tech",
+      "hot": 972265,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1U3x56HE7v",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_c819feb9",
+      "name": "《原神》米提亚角色PV——「小小伎俩」",
+      "cat": "tech",
+      "hot": 923110,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1dAxE6VErW",
       "category_name": "科技",
       "is_hot": true
     }
