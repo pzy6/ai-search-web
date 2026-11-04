@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-03T20:22:16.222281",
+    "generated_at": "2026-11-04T05:58:02.467832",
     "total": 20,
     "sources": [
       "bilibili"
@@ -9,32 +9,12 @@
   },
   "nodes": [
     {
-      "id": "hot_16f6b949",
-      "name": "【2026全球总决赛】11月1日 HLE vs BLG",
-      "cat": "tech",
-      "hot": 9040298,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1C8xn6YEDA",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
       "id": "hot_34df0132",
       "name": "全球笑点下降2000倍而我不变【第二集】",
       "cat": "tech",
-      "hot": 7143511,
+      "hot": 7298923,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1TxxC6vEo4",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_270d283f",
-      "name": "灭建国的超能力",
-      "cat": "tech",
-      "hot": 5025790,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1ugxq6HEfH",
       "category_name": "科技",
       "is_hot": true
     },
@@ -42,7 +22,7 @@
       "id": "hot_ff13745d",
       "name": "世界最最最烂活",
       "cat": "tech",
-      "hot": 3835810,
+      "hot": 4007405,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV15YxH6nEku",
       "category_name": "科技",
@@ -52,9 +32,19 @@
       "id": "hot_b59559ab",
       "name": "宠粉天花板，请我的粉丝朋友清空一家零食店，你来选我买单，看看要花多少钱",
       "cat": "tech",
-      "hot": 3835241,
+      "hot": 3844402,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV14o4F6EELU",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_0be8fbc4",
+      "name": "这！绝对不是儿童餐！",
+      "cat": "tech",
+      "hot": 3806751,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1hBxJ6uEcy",
       "category_name": "科技",
       "is_hot": true
     },
@@ -62,49 +52,9 @@
       "id": "hot_cab0f876",
       "name": "选一条路，决定你接下来的旅途",
       "cat": "tech",
-      "hot": 3481518,
+      "hot": 3586491,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Nax16uEHm",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_e27acdfa",
-      "name": "《动物声卡驱动异常》",
-      "cat": "tech",
-      "hot": 3105094,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1pkxi66EG6",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_5580b309",
-      "name": "筋角弓制作",
-      "cat": "tech",
-      "hot": 2357631,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1LRxi6aEtj",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_9fdf8b36",
-      "name": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
-      "cat": "tech",
-      "hot": 2343773,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Ntxr6xE7Y",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_9ca2173f",
-      "name": "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
-      "cat": "tech",
-      "hot": 2315200,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1i24P6rEmt",
       "category_name": "科技",
       "is_hot": true
     },
@@ -112,9 +62,49 @@
       "id": "hot_dc0ff375",
       "name": "一条没下巴的鱼杀穿奥陶纪？",
       "cat": "tech",
-      "hot": 2311009,
+      "hot": 2813290,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Xx4c6tEKM",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_9ca2173f",
+      "name": "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
+      "cat": "tech",
+      "hot": 2799656,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1i24P6rEmt",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_5580b309",
+      "name": "筋角弓制作",
+      "cat": "tech",
+      "hot": 2410621,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1LRxi6aEtj",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_831b7c6e",
+      "name": "网络热传生物鉴定 第65期",
+      "cat": "science",
+      "hot": 2236010,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV18wxY63Erp",
+      "category_name": "科学",
+      "is_hot": true
+    },
+    {
+      "id": "hot_f62eb70d",
+      "name": "小黑你爸回你消息了",
+      "cat": "tech",
+      "hot": 2051120,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1Lrxt6uEuR",
       "category_name": "科技",
       "is_hot": true
     },
@@ -122,7 +112,7 @@
       "id": "hot_eb481261",
       "name": "大肥鱼适合做女朋友吗？（2）",
       "cat": "tech",
-      "hot": 1767541,
+      "hot": 1871895,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1y5xW63EVq",
       "category_name": "科技",
@@ -132,19 +122,9 @@
       "id": "hot_d55fe492",
       "name": "《原神》角色预告-「米提亚：井井有条」",
       "cat": "tech",
-      "hot": 1500520,
+      "hot": 1666805,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV19b4A6PECX",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_2b2b0e0b",
-      "name": "【OC动画】馆长大人，请消消气！🌙酒魔女与她的贵客【魔女夜话小剧场】【手搓动画大赛】",
-      "cat": "tech",
-      "hot": 1454649,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1dRx16pEPw",
       "category_name": "科技",
       "is_hot": true
     },
@@ -152,29 +132,29 @@
       "id": "hot_c30041de",
       "name": "这样建？几棵树苗能做什么？【Minecraft】",
       "cat": "tech",
-      "hot": 1443289,
+      "hot": 1480377,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1o1xC6DEAa",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_324133b6",
-      "name": "【纸绘动画/卡点】爆肝600张！！数形结合！让你爱上数学【手搓动画大赛】",
-      "cat": "lifestyle",
-      "hot": 1345981,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1yhxp66Ez8",
-      "category_name": "生活",
-      "is_hot": true
-    },
-    {
       "id": "hot_0c8daccf",
       "name": "《崩坏：星穹铁道》走近星穹——「星神★阿哈：为了拖稿竟说自己是星神？」",
       "cat": "tech",
-      "hot": 1293847,
+      "hot": 1480135,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1mU4u6yEz5",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_2b2b0e0b",
+      "name": "【OC动画】馆长大人，请消消气！🌙酒魔女与她的贵客【魔女夜话小剧场】【手搓动画大赛】",
+      "cat": "tech",
+      "hot": 1476185,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1dRx16pEPw",
       "category_name": "科技",
       "is_hot": true
     },
@@ -182,17 +162,27 @@
       "id": "hot_2dacd20f",
       "name": "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让SuperAgent给你干活！",
       "cat": "tech",
-      "hot": 1287794,
+      "hot": 1454923,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1REx46NEc4",
       "category_name": "科技",
       "is_hot": true
     },
     {
+      "id": "hot_324133b6",
+      "name": "【纸绘动画/卡点】爆肝600张！！数形结合！让你爱上数学【手搓动画大赛】",
+      "cat": "lifestyle",
+      "hot": 1402540,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1yhxp66Ez8",
+      "category_name": "生活",
+      "is_hot": true
+    },
+    {
       "id": "hot_3e8def08",
       "name": "4941抽，67塔露拉",
       "cat": "tech",
-      "hot": 1157700,
+      "hot": 1181575,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1Gpxs6REwB",
       "category_name": "科技",
@@ -202,9 +192,19 @@
       "id": "hot_596ae58b",
       "name": "你从未离去 x 平凡之路",
       "cat": "tech",
-      "hot": 800582,
+      "hot": 823036,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1mVxx6SEJ4",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_94610661",
+      "name": "【文明与地图】12个大模型扮演君主谁能带领人类走向星际文明？",
+      "cat": "tech",
+      "hot": 575007,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1onxb6rEeE",
       "category_name": "科技",
       "is_hot": true
     }
