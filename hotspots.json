@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-11T11:46:43.997659",
+    "generated_at": "2026-11-12T06:57:01.448901",
     "total": 20,
     "sources": [
       "bilibili"
@@ -12,7 +12,7 @@
       "id": "hot_9af66b27",
       "name": "【2026全球总决赛】11月9日 BLG vs T1",
       "cat": "tech",
-      "hot": 14673021,
+      "hot": 15411095,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1TgWp6MEHJ",
       "category_name": "科技",
@@ -22,39 +22,19 @@
       "id": "hot_79dbc57c",
       "name": "《虚环》PV03｜致过去与未来的歌",
       "cat": "tech",
-      "hot": 7306257,
+      "hot": 9068568,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1h4WW6LEEv",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_ef25dbd5",
-      "name": "当我死去，群山不会震颤，河水不会倒流｜AI长片《汤症》【AI全民制作人】【完整版合集】",
+      "id": "hot_9b196ef2",
+      "name": "当我死去，群山不会震颤，河水不会倒流｜AI长片《汤症》【B站AI影视片场】【完整版合集】",
       "cat": "tech",
-      "hot": 4205404,
+      "hot": 4870481,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1vmWJ6LEmW",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_d905754b",
-      "name": "出现在餐桌上的清明上河图",
-      "cat": "tech",
-      "hot": 4146363,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1so4E6cEGi",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_ab045543",
-      "name": "这游戏是很多人的一辈子",
-      "cat": "tech",
-      "hot": 3753066,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1J54W6NELg",
       "category_name": "科技",
       "is_hot": true
     },
@@ -62,19 +42,39 @@
       "id": "hot_0e066807",
       "name": "选举大败特朗普和马斯克这下惨了",
       "cat": "tech",
-      "hot": 3264985,
+      "hot": 3618155,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1WEWs66EBP",
       "category_name": "科技",
       "is_hot": true
     },
     {
-      "id": "hot_455eebd8",
-      "name": "人类饲养指南",
+      "id": "hot_40c50a45",
+      "name": "《人皇步》",
       "cat": "tech",
-      "hot": 2803704,
+      "hot": 3131656,
       "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1Cn4n6YE29",
+      "url": "https://www.bilibili.com/video/BV1BjWt6BEJd",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_3e070a79",
+      "name": "《崩坏：星穹铁道》动画短片：「月下的欢快葬礼」",
+      "cat": "tech",
+      "hot": 2950808,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1gHWg6GEqj",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_13bb6677",
+      "name": "辽阔的土地生不出狭隘的爱",
+      "cat": "tech",
+      "hot": 2664531,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1hrW367Emp",
       "category_name": "科技",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "id": "hot_66c4cffd",
       "name": "《阴阳师》笼梦祸津神CG丨祸至无日（CV：中野彩麻）",
       "cat": "tech",
-      "hot": 2432100,
+      "hot": 2631708,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1sCWx6GEsH",
       "category_name": "科技",
@@ -92,9 +92,19 @@
       "id": "hot_825553d6",
       "name": "Faker了一辈子的蹲方魂 终于…",
       "cat": "tech",
-      "hot": 2182873,
+      "hot": 2443555,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1aYW86vEte",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_b444f6cb",
+      "name": "地牢酒馆-33《日常招待与地下湖》",
+      "cat": "tech",
+      "hot": 2251792,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1bwWu6KEaS",
       "category_name": "科技",
       "is_hot": true
     },
@@ -102,7 +112,7 @@
       "id": "hot_dbdd4e83",
       "name": "上帝之光：当人类第一次拥有操纵大脑的能力",
       "cat": "tech",
-      "hot": 2045377,
+      "hot": 2209891,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1KpWb6WENA",
       "category_name": "科技",
@@ -112,29 +122,9 @@
       "id": "hot_cb6c9b44",
       "name": "给孩子做了一个半飞行的玩具车",
       "cat": "tech",
-      "hot": 1846801,
+      "hot": 2121816,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1QUW46oEuT",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_b444f6cb",
-      "name": "地牢酒馆-33《日常招待与地下湖》",
-      "cat": "tech",
-      "hot": 1720089,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1bwWu6KEaS",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_3e070a79",
-      "name": "《崩坏：星穹铁道》动画短片：「月下的欢快葬礼」",
-      "cat": "tech",
-      "hot": 1698986,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1gHWg6GEqj",
       "category_name": "科技",
       "is_hot": true
     },
@@ -142,39 +132,9 @@
       "id": "hot_482942cf",
       "name": "如何盗走《蒙娜丽莎》？【硬核狠人92】",
       "cat": "tech",
-      "hot": 1575648,
+      "hot": 1850946,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1i4W86zEUS",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_28af3e23",
-      "name": "BO5战胜Faker！ BLG战胜T1挺进决赛！BLG决赛加油！【2026英雄联盟全球总决赛】",
-      "cat": "tech",
-      "hot": 1375608,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1kkWW6NEDW",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_71f81a53",
-      "name": "影之刃零：斗地主Mod 和任意BOSS打牌",
-      "cat": "tech",
-      "hot": 1307900,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV14pW769EXe",
-      "category_name": "科技",
-      "is_hot": true
-    },
-    {
-      "id": "hot_d984b3eb",
-      "name": "《绝区零》赛维里安EP | Gambit",
-      "cat": "tech",
-      "hot": 1271579,
-      "source": "bilibili",
-      "url": "https://www.bilibili.com/video/BV1xiWW6uESZ",
       "category_name": "科技",
       "is_hot": true
     },
@@ -182,9 +142,19 @@
       "id": "hot_f6077ab3",
       "name": "谁一周后的播放量高，谁就是流量王！！！【流量王番外篇蓝队】",
       "cat": "tech",
-      "hot": 1259403,
+      "hot": 1652717,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV13zWn66EXB",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_88ab93f4",
+      "name": "来东京，拍到了些怪东西",
+      "cat": "tech",
+      "hot": 1635118,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV179WW6oESh",
       "category_name": "科技",
       "is_hot": true
     },
@@ -192,9 +162,19 @@
       "id": "hot_79ea8e5f",
       "name": "谁一周后的播放量高，谁就是流量王！！！【流量王番外篇红队】",
       "cat": "tech",
-      "hot": 1171988,
+      "hot": 1536712,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV1RLWW6XEfn",
+      "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_a40182b3",
+      "name": "【爱你】王力宏&王心凌「最好的地方Ⅱ」官摄 | 限定 “双王组合”首次同台，甜度加倍！",
+      "cat": "tech",
+      "hot": 1315308,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1tBWt6WEVw",
       "category_name": "科技",
       "is_hot": true
     },
@@ -202,10 +182,30 @@
       "id": "hot_607936d0",
       "name": "耗时5个月，5万元成本，我用AI拍了一部68分钟的原创中国科幻长片《灰蚀危机》【ai全民制作人】",
       "cat": "tech",
-      "hot": 1142076,
+      "hot": 1258762,
       "source": "bilibili",
       "url": "https://www.bilibili.com/video/BV18GW76hEdg",
       "category_name": "科技",
+      "is_hot": true
+    },
+    {
+      "id": "hot_ad143e74",
+      "name": "【1酱赛评四强篇·上】BLG突破LPL对S赛T1不胜历史！几代人的夙愿！14年的等待！终于在S赛战胜T1！爽爽爽爽爽！！！！",
+      "cat": "humanities",
+      "hot": 1224044,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1QAW36VEWg",
+      "category_name": "人文",
+      "is_hot": true
+    },
+    {
+      "id": "hot_ced0be6f",
+      "name": "把旧发条装新身体上会发生什么？",
+      "cat": "lifestyle",
+      "hot": 1098925,
+      "source": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1sEW16cEJN",
+      "category_name": "生活",
       "is_hot": true
     }
   ]
